@@ -45,7 +45,7 @@ const Expression =()=>{
 }
 
 // 4.General Styling
-   const Styling=()=>{
+const Styling=()=>{
     var myStyle = {
         fontSize: 100,
         color: '#FF0000'
